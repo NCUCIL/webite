@@ -1,0 +1,20 @@
+{
+    "page": {
+    "home": {
+        "title": "首頁",
+        "nav": "首頁"
+    },
+    "about": {
+        "title": "關於",
+        "nav": "關於"
+    },
+    "service": {
+        "title": "服務",
+        "nav": "服務"
+    },
+    "contact": {
+        "title": "聯絡我們",
+        "nav": "聯絡我們"
+    }
+    }
+}
