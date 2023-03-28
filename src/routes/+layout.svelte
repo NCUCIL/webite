@@ -1,6 +1,9 @@
 <script>
     import "../app.css";
     import { _ } from 'svelte-i18n'
+    import facebook from '$lib/assets/facebook.webp'
+    import github from '$lib/assets/github.webp'
+    
 </script>
 
 <nav class="bg-black px-2 sm:px-4 py-2.5  fixed top-0 left-0 right-0 z-50">
@@ -32,3 +35,16 @@
   </div>
 </nav>
 <slot></slot>
+<footer class="bg-neutral-900 text-center text-white bottom-0">
+    <div class="flex justify-center py-6 grid md:grid-cols-12 grid-cols-1 gap-4 justify-items-center">
+        <a  class="col-start-6" href="https://www.facebook.com/NCU.CILab">
+            <img src={facebook} alt="facebook">
+        </a>
+        <a  class="col-start-7" href="https://github.com/NCUCIL">
+            <img src={github} alt="github">
+        </a>
+    </div>
+    <div class="p-4 text-center" style="background-color: rgba(0, 0, 0, 0.2)">    
+        <p class="text-whitehite">© 2023 Copyright: CLoud Infrastructure Lab</p>
+    </div>
+</footer>
