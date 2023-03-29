@@ -35,16 +35,16 @@
   </div>
 </nav>
 <slot></slot>
-<footer class="bg-neutral-900 text-center text-white bottom-0">
-    <div class="flex justify-center py-6 grid md:grid-cols-12 grid-cols-1 gap-4 justify-items-center">
-        <a  class="col-start-6" href="https://www.facebook.com/NCU.CILab">
+<footer class="bg-black text-center text-white bottom-0">
+    <div class="flex justify-center p-4 grid md:grid-cols-12 grid-cols-1 gap-4 justify-items-center">
+        <a  class="md:col-start-6" href="https://www.facebook.com/NCU.CILab">
             <img src={facebook} alt="facebook">
         </a>
-        <a  class="col-start-7" href="https://github.com/NCUCIL">
+        <a  class="md:col-start-7" href="https://github.com/NCUCIL">
             <img src={github} alt="github">
         </a>
     </div>
-    <div class="p-4 text-center" style="background-color: rgba(0, 0, 0, 0.2)">    
+    <div class="p-2 bg-black text-center">    
         <p class="text-whitehite">© 2023 Copyright: CLoud Infrastructure Lab</p>
     </div>
 </footer>
