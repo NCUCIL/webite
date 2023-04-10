@@ -13,7 +13,7 @@
 	<div class="grid md:grid-cols-8 grid-cols-1 gap-2 items-center">
 		{#if ready}
 			<p
-				class="font-bold text-8xl text-white md:col-start-2 md:col-end-3 align-top"
+				class="font-bold md:text-8xl text-2xl text-white md:col-start-2 md:col-end-3 align-top"
 				transition:fade
 			>
 				Cloud<br />Infrastructure<br />Lab
