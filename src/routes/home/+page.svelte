@@ -10,7 +10,7 @@
 </script>
 
 <div class="flex items-center md:h-screen md:w-screen bg-black right-0 left-0 bottom-0 opacity-100">
-	<div class="grid md:grid-cols-8 grid-cols-1 gap-2 items-center">
+	<div class="grid md:grid-cols-8 grid-cols-1 gap-2 items-center m-16">
 		{#if ready}
 			<p
 				class="font-bold md:text-8xl text-2xl text-white md:col-start-2 md:col-end-3 align-top"

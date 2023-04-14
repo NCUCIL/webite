@@ -17,7 +17,7 @@
 	<div class="h-screen w-screen bg-black right-0 left-0 bottom-0 opacity-80 bg-fixed absolute" />
 	{#if ready}
 		<div
-			class="flex grid md:grid-cols-12 grid-cols-1 gap-4 absolute transition-opacity"
+			class="flex grid md:grid-cols-12 grid-cols-1 gap-4 absolute transition-opacity m-5"
 			transition:fade
 		>
 			<div

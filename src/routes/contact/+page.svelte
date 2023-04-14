@@ -8,8 +8,10 @@
 	});
 </script>
 
-<div class="flex items-center md:h-screen md:w-screen bg-black right-0 left-0 bottom-0 opacity-100">
-	<div class="grid md:grid-cols-12 grid-cols-1 gap-2 items-center leading-7">
+<div
+	class="flex items-center md:h-screen md:w-screen h-screen bg-black right-0 left-0 bottom-0 opacity-100"
+>
+	<div class="grid md:grid-cols-12 grid-cols-1 gap-2 items-center leading-7 p-4">
 		{#if ready}
 			<div class="md:col-start-3 md:col-end-6">
 				<p class="font-bold md:text-5xl text-2xl text-white align-top" transition:fade>
