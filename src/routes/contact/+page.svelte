@@ -24,7 +24,7 @@
 			</div>
 			<div class="md:border-2 border-l-slate-50 rotate-90" />
 			<div
-				class="bg-gradient-to-r from-zinc-700 to-zinc-950 md:col-start-7 md:col-end-11 p-8 rounded-sm"
+				class="border-b border-emerald-950 bg-gradient-to-r from-zinc-700 to-zinc-950 md:col-start-7 md:col-end-11 p-8 rounded-sm"
 			>
 				<p class="text-white text-4xl">CILab</p>
 				<p class="text-white">support@cilab.cc</p>
