@@ -73,7 +73,7 @@
 	</div>
 </nav>
 <slot />
-<footer class="bg-black text-center text-white bottom-0">
+<footer class="bg-stone-950 text-center text-white bottom-0">
 	<div class="flex justify-center p-4 grid md:grid-cols-12 grid-cols-1 gap-4 justify-items-center">
 		<a class="md:col-start-6" href="https://www.facebook.com/NCU.CILab">
 			<svg class="fill-white h-8 w-8" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"
@@ -90,7 +90,7 @@
 			>
 		</a>
 	</div>
-	<div class="p-2 bg-black text-center">
+	<div class="p-2 text-center">
 		<p class="text-gray-400">© 2023 Copyright: Cloud Infrastructure Lab. All Right Reserved.</p>
 	</div>
 </footer>
