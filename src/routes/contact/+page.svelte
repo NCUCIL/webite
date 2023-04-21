@@ -18,8 +18,7 @@
 					Get in touch.
 				</p>
 				<p class="md:text-2xs text-3sm text-white align-top" transition:fade>
-					It is a long established fact that a reader will be distracted by the readable content of
-					a page when looking at its layout.
+					If you have any questions, please feel free to contact us by email.
 				</p>
 			</div>
 			<div class="md:border-2 border-l-slate-50 rotate-90" />
