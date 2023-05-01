@@ -7,12 +7,8 @@
 
 <nav class="bg-black px-2 sm:px-4 py-2.5 fixed top-0 left-0 right-0 z-50">
 	<div class="container flex flex-wrap items-center justify-between mx-auto">
-		<a href="https://flowbite.com/" class="flex items-center">
-			<img
-				src="https://flowbite.com/docs/images/logo.svg"
-				class="h-6 mr-3 sm:h-9"
-				alt="Flowbite Logo"
-			/>
+		<a href="https://github.com/NCUCIL" class="flex items-center">
+			<img src="" class="h-6 mr-3 sm:h-9" alt="CILab logo" />
 			<span class="self-center text-xl font-semibold whitespace-nowrap dark:text-white">CILab</span>
 		</a>
 		<button
