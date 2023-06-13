@@ -3,12 +3,13 @@
 	import { _ } from 'svelte-i18n';
 	import facebook from '$lib/assets/facebook.webp';
 	import github from '$lib/assets/github.webp';
+	import logo from '$lib/assets/cloud.webp';
 </script>
 
 <nav class="bg-black px-2 sm:px-4 py-2.5 fixed top-0 left-0 right-0 z-50">
 	<div class="container flex flex-wrap items-center justify-between mx-auto">
 		<a href="https://github.com/NCUCIL" class="flex items-center">
-			<img src="" class="h-6 mr-3 sm:h-9" alt="CILab logo" />
+			<img class="w-20 h-20 sm:w-20 sm:h-20 xs:w-10 xs:h-10" src={logo} alt="logo" />
 			<span class="self-center text-xl font-semibold whitespace-nowrap dark:text-white">CILab</span>
 		</a>
 		<button
