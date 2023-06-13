@@ -1,5 +1,5 @@
-<style>
-    /* @import url('https://fonts.googleapis.com/css2?family=Hammersmith+One&display=swap'); */
-</style>
+<slot />
 
-<slot/>
+<style>
+	/* @import url('https://fonts.googleapis.com/css2?family=Hammersmith+One&display=swap'); */
+</style>
