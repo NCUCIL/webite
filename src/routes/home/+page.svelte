@@ -9,7 +9,7 @@
 	});
 </script>
 
-<div class="flex items-center md:h-screen md:w-screen bg-black right-0 left-0 bottom-0 opacity-100">
+<div class="flex items-center min-h-screen md:w-screen bg-black right-0 left-0 bottom-0 opacity-100">
 	<div class="grid md:grid-cols-8 grid-cols-1 gap-2 items-center m-16">
 		{#if ready}
 			<p

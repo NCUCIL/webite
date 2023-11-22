@@ -24,9 +24,8 @@
 				class="bg-stone-900 opacity-90 rounded-lg p-16 md:w-[80vh] md:h-[400px] md:col-start-2 md:col-end-3"
 			>
 				<p class="text-white align-middle indent-4 leading-loose text-justify">
-					Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
-					been the industry's standard dummy text ever since the 1500s, when an unknown printer took
-					a galley of type and scrambled it to make a type specimen book.
+					CILab is a student-led initiative that aims to create a free and open platform for learning and experimenting with cloud technologies. CILab members have access to a data center facility where they can set up servers, routers, switches, firewalls, and other devices. They can also use various software tools and frameworks to create and manage cloud applications and services. CILab members can offer their cloud services to other students for free, or exchange them for feedback and collaboration.
+
 				</p>
 			</div>
 			<img
@@ -38,5 +37,5 @@
 	{/if}
 </div>
 
-<style lang="postcss">
+<style>
 </style>
